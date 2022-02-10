@@ -1,0 +1,35 @@
+#header {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#content {
+    padding: 10px 10px 10px 10px;
+}
+
+#footer {
+    clear: both;
+    padding: 20px;
+    background-color: #999999;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #EEE;
+    font-family: "Raleway", Arial, sans-serif;
+    justify-content: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", Arial, sans-serif;
+  letter-spacing: 5px;
+}
