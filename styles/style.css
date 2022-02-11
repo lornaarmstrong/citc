@@ -13,6 +13,21 @@
 
 #content {
     padding: 10px 10px 10px 10px;
+    height: 2000px;
+}
+
+#left-container{
+    height: 100px;
+    width: 30%;
+    float: left;
+    margin: 5 5 5 5;
+}
+
+#right-container{
+    height: 100px;
+    width: 48%;
+    float: right;
+    margin: 5 5 5 5;
 }
 
 #footer {
@@ -22,6 +37,15 @@
     color: white;
     text-align: center;
 }
+
+.nlp-box {
+    background-color: #F39A9D;
+}
+
+.robotics-box {
+    background-color: #fff;
+}
+
 
 body {
     background-color: #EEE;
