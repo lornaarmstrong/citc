@@ -13,11 +13,13 @@
 
 #content {
     padding: 10px 10px 10px 10px;
-    height: 2000px;
+    height: 1500px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #left-container{
-    height: 100px;
+    height: 416px;
     width: 30%;
     float: left;
     margin: 5 5 5 5;
@@ -48,12 +50,12 @@
 
 
 body {
-    background-color: #EEE;
+    background-color: #fff;
     font-family: "Raleway", Arial, sans-serif;
     justify-content: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", Arial, sans-serif;
+  font-family: "Spartan", Arial, sans-serif;
   letter-spacing: 5px;
 }
