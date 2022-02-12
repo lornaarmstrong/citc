@@ -40,14 +40,46 @@
     text-align: center;
 }
 
-.nlp-box {
+.nlp-container {
+    padding: 20px;
     background-color: #F39A9D;
 }
 
-.robotics-box {
-    background-color: #fff;
+.pink-container {
+    padding: 20px;
+    background-color: #F39A9D;
+    margin: 10px;
+    height: 1000px;
 }
 
+.profile-image {
+    float:left;
+    margin: 60px 40px 10px 0px;
+
+}
+
+.nlp-text {
+    font-family: "Spartan", Arial, sans-serif;
+    color: black;
+}
+
+.nlp-content {
+    margin: 40px 40px 10px 10px;
+    float: left;
+    width: 100%;
+}
+
+.nlp-intro {
+    width: 65%;
+    float: left;
+    padding: 10px;
+    background-color: white;
+    background-color: #FFC6C8;
+}
+
+p {
+    padding: 6px;
+}
 
 body {
     background-color: #fff;
@@ -58,4 +90,5 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Spartan", Arial, sans-serif;
   letter-spacing: 5px;
+  text-align: center;
 }
