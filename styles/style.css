@@ -16,6 +16,8 @@
     height: 1500px;
     margin-right: auto;
     margin-left: auto;
+    background-color: white;
+    color: black;
 }
 
 #left-container{
@@ -35,7 +37,7 @@
 #footer {
     clear: both;
     padding: 20px;
-    background-color: #999999;
+    background-color: black;
     color: white;
     text-align: center;
 }
@@ -45,9 +47,28 @@
     background-color: #FFC6C8;
 }
 
+.robotics-container {
+    padding: 20px;
+    background-color: #91c8d1;
+    color: white;
+}
+
+.software-enginering-container {
+    padding: 20px;
+    background-color: #ffeaec;
+    color: black;
+}
+
 .pink-container {
     padding: 20px;
     background-color: #F39A9D;
+    margin: 10px;
+    height: 1000px;
+}
+
+.robotics-blue-container {
+    padding: 20px;
+    background-color: #578f99;
     margin: 10px;
     height: 1000px;
 }
@@ -63,7 +84,18 @@
     color: black;
 }
 
+.robotics-text {
+    font-family: "Spartan", Arial, sans-serif;
+    color: black;
+}
+
 .nlp-content {
+    margin: 40px 40px 10px 10px;
+    float: left;
+    width: 100%;
+}
+
+.robotics-content{
     margin: 40px 40px 10px 10px;
     float: left;
     width: 100%;
@@ -77,35 +109,12 @@
     background-color: #FFC6C8;
 }
 
-.software-engineering-text {
-    font-family: "Spartan", Arial, sans-serif;
-    color: black;
-}
-
-.software-engineering-content {
-    margin: 40px 40px 10px 10px;
-    float: left;
-    width: 100%;
-}
-
-.software-engineering-intro {
+.robotics-intro {
     width: 65%;
     float: left;
     padding: 10px;
     background-color: white;
-    background-color: #F39A9D;
-}
-
-.software-engineering-container {
-    padding: 20px;
-    background-color: #F39A9D;
-}
-
-.light-pink-container {
-    padding: 20px;
-    background-color: #FFEAEC;
-    margin: 10px;
-    height: 1000px;
+    background-color: #91c8d1;
 }
 
 p {
