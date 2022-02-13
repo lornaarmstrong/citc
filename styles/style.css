@@ -42,7 +42,7 @@
 
 .nlp-container {
     padding: 20px;
-    background-color: #F39A9D;
+    background-color: #FFC6C8;
 }
 
 .pink-container {
@@ -75,6 +75,37 @@
     padding: 10px;
     background-color: white;
     background-color: #FFC6C8;
+}
+
+.software-engineering-text {
+    font-family: "Spartan", Arial, sans-serif;
+    color: black;
+}
+
+.software-engineering-content {
+    margin: 40px 40px 10px 10px;
+    float: left;
+    width: 100%;
+}
+
+.software-engineering-intro {
+    width: 65%;
+    float: left;
+    padding: 10px;
+    background-color: white;
+    background-color: #F39A9D;
+}
+
+.software-engineering-container {
+    padding: 20px;
+    background-color: #F39A9D;
+}
+
+.light-pink-container {
+    padding: 20px;
+    background-color: #FFEAEC;
+    margin: 10px;
+    height: 1000px;
 }
 
 p {
