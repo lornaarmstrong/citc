@@ -13,7 +13,7 @@
 
 #content {
     padding: 10px 10px 10px 10px;
-    height: 1500px;
+    height: 1700px;
     margin-right: auto;
     margin-left: auto;
     background-color: white;
@@ -52,6 +52,15 @@
     color: white;
 }
 
+.light-grey-box {
+    background-color: #fff;
+}
+
+.float-left {
+    float:left;
+    padding: 10px;
+}
+
 .software-enginering-container {
     padding: 20px;
     background-color: #ffeaec;
@@ -79,6 +88,7 @@
 
 .nlp-text {
     font-family: "Spartan", Arial, sans-serif;
+    font-size: 13pt;
     color: black;
 }
 
@@ -125,8 +135,14 @@ body {
     justify-content: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
   font-family: "Spartan", Arial, sans-serif;
   letter-spacing: 5px;
   text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Gaegu', cursive;
+    font-size: 20pt;
 }
