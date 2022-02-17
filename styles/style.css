@@ -175,6 +175,14 @@ h2 {
     color: black;
 }
 
+.subject-robotics-container{
+    width: 100%;
+    background-color: #91c8d1;
+    float:left;
+    padding: 20px;
+    color: black;
+}
+
 .no-background-container{
     width: 100%;
     float:left;
@@ -191,6 +199,12 @@ h2 {
     padding: 5px;
     background-color: #45525d;
     color: white;
+}
+
+.did-you-know-outer-robotics {
+    margin: 5px;
+    padding: 5px;
+    background-color: #C1E4ED;
 }
 
 .did-you-know-outer {
