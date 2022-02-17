@@ -183,6 +183,14 @@ h2 {
     color: black;
 }
 
+.subject-cyber-container{
+    width: 100%;
+    background-color: #f49a59;
+    float:left;
+    padding: 20px;
+    color: black;
+}
+
 .no-background-container{
     width: 100%;
     float:left;
@@ -198,6 +206,13 @@ h2 {
     margin: 5px;
     padding: 5px;
     background-color: #45525d;
+    color: white;
+}
+
+.did-you-know-outer-cyber {
+    margin: 5px;
+    padding: 5px;
+    background-color: #de541e;
     color: white;
 }
 
