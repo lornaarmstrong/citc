@@ -118,8 +118,8 @@
     width: 65%;
     float: left;
     padding: 10px;
-    background-color: white;
-    background-color: #FFC6C8;
+    background-image: "/images/speech.png";
+    font-family: "Raleway", Arial, sans-serif;
 }
 
 .robotics-intro {
@@ -132,6 +132,7 @@
 
 p {
     padding: 6px;
+    font-family: "Raleway", Arial, sans-serif;
 }
 
 body {
@@ -140,14 +141,49 @@ body {
     justify-content: center;
 }
 
-h1, h3, h4, h5, h6 {
+h3, h4, h5, h6 {
   font-family: "Spartan", Arial, sans-serif;
   letter-spacing: 5px;
   text-align: center;
 }
 
-h2 {
+h1, h2 {
     text-align: left;
     font-family: 'Gaegu', cursive;
+}
+
+h1 {
+    font-size: 30pt;
+}
+
+h2 {
     font-size: 20pt;
+}
+
+.subject-nlp-container{
+    width: 100%;
+    background-color: #FFE8E9;
+    float:left;
+    padding: 20px;
+}
+
+.no-background-container{
+    width: 100%;
+    float:left;
+    padding: 20px;
+}
+
+.left-content{
+    width: 50%;
+    float:left;
+}
+
+.did-you-know-outer {
+    margin: 5px;
+    padding: 5px;
+    background-color: #FFC6C8;
+}
+
+.did-you-know-inner {
+    padding: 10px;
 }
