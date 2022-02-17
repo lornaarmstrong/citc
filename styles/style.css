@@ -175,6 +175,14 @@ h2 {
     color: black;
 }
 
+.subject-os-container{
+    width: 100%;
+    background-color: #d8d8d8;
+    float:left;
+    padding: 20px;
+    color: black;
+}
+
 .subject-robotics-container{
     width: 100%;
     background-color: #91c8d1;
@@ -226,6 +234,13 @@ h2 {
     margin: 5px;
     padding: 5px;
     background-color: #f17c7c;
+}
+
+.did-you-know-outer-os {
+    margin: 5px;
+    padding: 5px;
+    background-color: #304462;
+    color: white;
 }
 
 .did-you-know-outer {
