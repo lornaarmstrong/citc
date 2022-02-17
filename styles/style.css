@@ -167,6 +167,14 @@ h2 {
     padding: 20px;
 }
 
+.subject-hci-container{
+    width: 100%;
+    background-color: #AAB2B8;
+    float:left;
+    padding: 20px;
+    color: black;
+}
+
 .no-background-container{
     width: 100%;
     float:left;
@@ -176,6 +184,13 @@ h2 {
 .left-content{
     width: 50%;
     float:left;
+}
+
+.did-you-know-outer-hci {
+    margin: 5px;
+    padding: 5px;
+    background-color: #45525d;
+    color: white;
 }
 
 .did-you-know-outer {
